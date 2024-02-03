@@ -1,0 +1,23 @@
+<html>
+    <body>
+        <h1>Absolute path and Relative path</h1>
+        <h3>Absolute path</h3>
+        <p>Absolute paths use URLs that refer to a specific, fully identified location on the internet. These paths include a domain name as part of the link path itself.
+
+            Use an absolute path to point to web elements that are on a domain other than your own. For example, to link to a page on a different website you must include the full URL. That link would simply add the element inside the page with the URL used as the value of the href attribute for that link.
+            
+            You're also free to use absolute-path URLs on your own domain, with the caveat that if you move among subdomains or among directories on your own server, absolute paths may break. To avoid this problem, the file paths for any local resources should use relative paths.</p>
+        <img src="dog 1.jpg" width="300"height="200">
+        <h3>Relative path</h3>
+        <p>
+            A relative path is always relative to the root of the document, so if your html is at the same level of the directory, you'd need to start the path directly with your picture's directory name:
+
+            "pictures/picture.png"
+            <img src="./dog 2.jpg" width="250" height="200">
+
+        </p>
+        <h3>image 3</h3>
+        <img src="../dog folder/dog3.jpeg" width="350" height="250">
+
+        </body>
+</html>

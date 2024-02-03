@@ -1,0 +1,30 @@
+<html>
+<body>
+ <h1><center>FRONT-END COURSES</center></h1>
+ <h3>Description about front end</h3>
+ <p>A Front-End Developer is someone who creates websites and web applications.
+
+    The difference between Front-End and Back-End is that Front-End refers to how a web page looks, while back-end refers to how it works.
+    
+    You can think of Front-End as client-side and Back-End as server-side.
+    
+    The basic languages for Front-End Development are HTML, CSS, and JavaScript.</p>
+    <h2><u>html:-</u></h2>
+    <img src="html logo.jpg" width="100" height="100" align="right">
+    <p>HTML, which stands for HyperText Markup Language, serves as the foundation of web development. It enables you to create interactive web pages, structure content, and effectively communicate your message.
+     In this guide, we'll explore HTML comprehensively, addressing essential questions to provide a strong foundation for budding web developers.</p>
+     <h2><u>css:-</u></h2>
+     <img src="css logo.png" width="100" height="100"align="right">
+     <p>CSS is used to style and lay out web pages — for example, to alter the font, colour, size and spacing of your content, split it into multiple columns, or add animations and other decorative features. This module gets you started on the path to CSS mastery with the basics of how it works, including selectors and properties, writing CSS rules, applying CSS to HTML, how to specify length, colour, and other units in CSS, cascade and inheritance, and debugging CSS.</p>
+     <h2><u>javascript:-</u></h2>
+     <img src="js logo.png" width="100" height="100"align="right">
+     <p>JavaScript was initially created to “make web pages alive”.
+
+        The programs in this language are called scripts. They can be written right in a web page’s HTML and run automatically as the page loads.
+        
+        Scripts are provided and executed as plain text. They don’t need special preparation or compilation to run.
+        
+        In this aspect, JavaScript is very different from another language called Java.</p>
+    </body>
+    </html>
+
